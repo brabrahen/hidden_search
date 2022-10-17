@@ -15,3 +15,9 @@ Week of projects
 <div>
     <img alt="hidden" src="https://i.imgur.com/hvs4lLk.png" />
 </div>
+
+###
+
+----
+
+Today wasn't a good day, but tomorrow I'll be better... See you 🥷🥷'
