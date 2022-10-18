@@ -1,4 +1,4 @@
-# hidden_search
+# Hidden search
 
 Week of projects
 
